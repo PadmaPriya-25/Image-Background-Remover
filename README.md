@@ -1,0 +1,1 @@
+This project is a simple web application built using Flask, a Python web framework, that allows users to remove the background from images. Users can upload an image through the web interface, and the application will process the image using the rembg library to remove its background. The processed image is then provided as a downloadable attachment.
